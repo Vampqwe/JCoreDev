@@ -1,0 +1,106 @@
+body {
+	margin: 0px;
+	padding: 10px;
+	background-color: #7d8082;
+}
+a {
+	color: #000;	
+}
+p {
+	font-size: 16px;
+}
+.h3titleSite {
+	margin: 0px 0px 0px 380px;
+	position: absolute;
+}
+a:hover {
+	color: #757575;
+}
+#layot {
+	border: 1px solid #000;
+	width: 900px;
+	min-height: 1200px;
+	background-color: #4f4f4f;
+	margin: auto;
+}
+
+#menuHead {
+	border: 1px solid #000;
+	width: 900px;
+	height: 25px;
+	margin-top: 5px;
+	background-color: #f0f0f0;
+}
+.lincMenuHead {
+	margin: 0px;
+	position: absolute;
+}
+
+.lincMenuHead li {
+	display: inline;
+}
+
+.lincRegHead {
+	position: absolute;
+	margin: 0px 0px 0px 650px;
+}
+
+.lincRegHead li{
+	display: inline;
+}
+
+#header {
+	border: 1px solid #000;
+	width: 900px;
+	height: 100px;
+	margin-top: 5px;
+}
+#rightBlock {
+	border: 0px solid #000;
+	width: 150px;
+	float: right;
+	min-height: 800px;
+	margin-top: 5px;
+	background-color: #f0f0f0;
+}
+
+#content {
+	border: 0px solid #000;
+	width: 590px;
+	min-height: 1000px;
+	margin: auto;
+	margin-top: 5px;
+	background-color: #f0f0f0;
+}
+
+.contentTable {
+	border: 1px solid black;
+	width: 580px;
+	height: 250px;
+	margin: 5px 5px 0px 5px;
+}
+
+#leftBlock {
+	border: 0px solid #000;
+	width: 150px;
+	height: 80%;
+	float: left;
+	min-height: 800px;
+	margin-top: 5px;
+	background-color: #f0f0f0;
+}
+
+#footer {
+	border: 1px solid #000;
+	width: 900px;
+	height: 50px;
+	margin-top: 5px;
+}
+
+
+
+
+
+
+
+
