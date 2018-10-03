@@ -112,7 +112,7 @@
 			return $congigInfo;
 		}
 		
-		public static function JSystemObj () {
+		public static function jSystemObj () {
 			return new JCore();
 		}
 		

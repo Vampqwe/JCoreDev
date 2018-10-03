@@ -6,9 +6,19 @@
 </treenode>
 <treenode node="../JCore.php;PHP:PHP Include;E:\OSPanel\domains\coredev\core\ums\NewFile.php;f14;1;26;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 </treenode>
-<treenode node="core/JCore.php;PHP:PHP Include;E:\OSPanel\domains\coredev\NewFile.php;f14;1;28;1;;E:\OSPanel\domains\coredev\auth.php;f14;1;28;1;;E:\OSPanel\domains\coredev\index.php;f14;3;28;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+<treenode node="core/JCore.php;PHP:PHP Include;E:\OSPanel\domains\coredev\auth.php;f14;1;28;1;;E:\OSPanel\domains\coredev\fileMenedger.php;f14;1;28;1;;E:\OSPanel\domains\coredev\fileManager.php;f14;1;28;1;;E:\OSPanel\domains\coredev\index.php;f14;3;28;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 </treenode>
 <treenode node="JCONFIG;PHP:PHP Word;E:\OSPanel\domains\coredev\core\NewFile.php;f18;26;25;26;;E:\OSPanel\domains\coredev\core\JCore.php;f18;24;25;24;;;;vpos;;v;;r$this-&gt;config;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="JBook;PHP:Class Name;E:\OSPanel\domains\coredev\core\libs\classes\NewFile.php;f1;2;2;24;;E:\OSPanel\domains\coredev\core\libs\classes\JBook.class.php;f1;2;2;24;;;;vpos;;v;;r;;d13,2;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;E:\OSPanel\domains\coredev\core\libs\classes\NewFile.php;f9;7;3;9;;E:\OSPanel\domains\coredev\core\libs\classes\JBook.class.php;f9;7;3;9;;;;vpos;;v;;r;;d33,7;;b1,0;;m">
+</treenode>
+<treenode node="getAllBooks;PHP:Function Name;E:\OSPanel\domains\coredev\core\libs\classes\NewFile.php;f9;15;3;18;;E:\OSPanel\domains\coredev\core\libs\classes\JBook.class.php;f9;15;3;18;;;;vpos;;v;;r;;d33,15;;b1,0;;m">
+</treenode>
+<treenode node="getOneBook;PHP:Function Name;E:\OSPanel\domains\coredev\core\libs\classes\NewFile.php;f9;20;3;23;;E:\OSPanel\domains\coredev\core\libs\classes\JBook.class.php;f9;20;3;23;;;;vpos;;v;;r;;d32,20;;b1,0;;m">
+</treenode>
+<treenode node="setDataBook;PHP:Function Name;E:\OSPanel\domains\coredev\core\libs\classes\NewFile.php;f9;11;3;13;;E:\OSPanel\domains\coredev\core\libs\classes\JBook.class.php;f9;11;3;13;;;;vpos;;v;;r;;d42,11;;b1,0;;mdataBook;;p">
+</treenode>
 </treenode>
 <treenode node="JCore;PHP:Class Name;E:\OSPanel\domains\coredev\core\NewFile.php;f1;4;2;91;;E:\OSPanel\domains\coredev\core\JCore.php;f1;4;2;144;;;;vpos;;v;;r&#10;Definition&#10;    class JCore&#10;&#10;Description&#10;     Class JCore;;d13,4;;b0,0;;m">
 <treenode node="__construct;PHP:Function Name;E:\OSPanel\domains\coredev\core\NewFile.php;f9;10;3;18;;E:\OSPanel\domains\coredev\core\JCore.php;f9;10;3;18;;;;vpos;;v;;r;;d33,10;;b1,0;;m">
@@ -100,18 +110,6 @@
 <treenode node="timerStart;PHP:Function Name;E:\OSPanel\domains\coredev\core\util\default\JdBug.class.php;f16;42;3;44;;E:\OSPanel\domains\coredev\core\libs\classes\JdBug.class.php;f16;42;3;44;;;;vpos;;v;;r;;d38,42;;b1,5;;m">
 </treenode>
 <treenode node="timerStop;PHP:Function Name;E:\OSPanel\domains\coredev\core\util\default\JdBug.class.php;f16;46;3;49;;E:\OSPanel\domains\coredev\core\libs\classes\JdBug.class.php;f16;46;3;49;;;;vpos;;v;;r;;d38,46;;b1,5;;m">
-</treenode>
-</treenode>
-<treenode node="JErrorManagementSystem;PHP:Class Name;E:\OSPanel\domains\coredev\core\libs\classes\NewFile.php;f1;2;2;57;;;;vpos;;v;;r;;d30,2;;b0,0;;m">
-<treenode node="__construct;PHP:Function Name;E:\OSPanel\domains\coredev\core\libs\classes\NewFile.php;f9;6;3;8;;;;vpos;;v;;r;;d33,6;;b1,0;;m">
-</treenode>
-<treenode node="getMsgError;PHP:Function Name;E:\OSPanel\domains\coredev\core\libs\classes\NewFile.php;f9;14;3;16;;;;vpos;;v;;r;;d33,14;;b1,0;;m">
-</treenode>
-<treenode node="lackyMsg;PHP:Function Name;E:\OSPanel\domains\coredev\core\libs\classes\NewFile.php;f9;18;3;20;;;;vpos;;v;;r;;d38,18;;b1,0;;mlackyMsg;;p">
-</treenode>
-<treenode node="setNameNumberError;PHP:Function Name;E:\OSPanel\domains\coredev\core\libs\classes\NewFile.php;f10;22;3;56;;;;vpos;;v;;r;;d41,22;;b3,0;;m">
-</treenode>
-<treenode node="setNumberError;PHP:Function Name;E:\OSPanel\domains\coredev\core\libs\classes\NewFile.php;f9;10;3;12;;;;vpos;;v;;r;;d48,10;;b1,0;;mnamberError;;p">
 </treenode>
 </treenode>
 <treenode node="JInputDataMenu;PHP:Class Name;E:\OSPanel\domains\coredev\core\libs\classes\InputDataMenu.class.php;f1;2;2;29;;;;vpos;;v;;r;;d22,2;;b0,0;;m">

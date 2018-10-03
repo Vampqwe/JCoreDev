@@ -4,25 +4,30 @@
 		<file name="E:\OSPanel\domains\coredev\core\JCore.php"/>
 		<file name="E:\OSPanel\domains\coredev\index.php"/>
 		<file name="E:\OSPanel\domains\coredev\style\index.css"/>
-		<file name="E:\OSPanel\domains\coredev\core\libs\classes\JUserManagementSystem.class.php"/>
-		<file name="E:\OSPanel\domains\coredev\auth.php"/>
-		<file name="E:\OSPanel\domains\coredev\style\auth.css"/>
-		<file name="E:\OSPanel\domains\coredev\core\config.ini"/>
+		<file name="E:\OSPanel\domains\coredev\fileManager.php"/>
+		<file name="E:\OSPanel\domains\coredev\style\fileManager.css"/>
+		<file name="E:\OSPanel\domains\coredev\core\libs\classes\JBook.class.php"/>
 	</lastopfiles>
 	<todoblock>
 	</todoblock>
+	<dbgurls>
+	</dbgurls>
 	<filescache>
 		<file name="E:\OSPanel\domains\coredev\style\index.css" crc="1538050896"/>
+		<file name="E:\OSPanel\domains\coredev\style\fileManager.css" crc="1538139342"/>
 		<file name="E:\OSPanel\domains\coredev\style\auth.css" crc="1537906689"/>
 		<file name="E:\OSPanel\domains\coredev\core\libs\classes\JUserManagementSystem.class.php" crc="1538071744"/>
 		<file name="E:\OSPanel\domains\coredev\core\libs\classes\JNews.class.php" crc="1538036024"/>
 		<file name="E:\OSPanel\domains\coredev\core\libs\classes\JErrorManagementSystem.class.php" crc="1538049856"/>
 		<file name="E:\OSPanel\domains\coredev\core\libs\classes\JdBug.class.php" crc="1537878917"/>
 		<file name="E:\OSPanel\domains\coredev\core\libs\classes\JDb.class.php" crc="1537893808"/>
+		<file name="E:\OSPanel\domains\coredev\core\libs\classes\JBook.class.php" crc="1538170593"/>
 		<file name="E:\OSPanel\domains\coredev\core\ums.php" crc="1537911884"/>
 		<file name="E:\OSPanel\domains\coredev\core\JCore.php" crc="1538061909"/>
 		<file name="E:\OSPanel\domains\coredev\core\config.ini" crc="1538060925"/>
-		<file name="E:\OSPanel\domains\coredev\index.php" crc="1538060831"/>
+		<file name="E:\OSPanel\domains\coredev\index.php" crc="1538169569"/>
+		<file name="E:\OSPanel\domains\coredev\fileManager.php" crc="1538169626"/>
 		<file name="E:\OSPanel\domains\coredev\auth.php" crc="1538050038"/>
+		<file name="E:\OSPanel\domains\coredev\.htaccess" crc="1538408260"/>
 	</filescache>
 </project>

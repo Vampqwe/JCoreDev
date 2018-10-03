@@ -9,7 +9,7 @@ if (JCore::getInput('action') == 'exit') {
 	echo "<script> window.location.href='http://coredev/index.php'; </script>";
 }
 ?>
-<!Doctype>
+<!doctype>
 <html>
 	<head>
 		<meta charset="utf-8">
@@ -49,6 +49,26 @@ if (JCore::getInput('action') == 'exit') {
 <?php
 	switch (JCore::getInput('action')) {
 		case 'books':
+		$allBook = new JBook();
+		$allBookArr = $allBook->getAllBooks();
+		//JdBug::dmp($allBookArr);
+		//new JdBug($allBookArr, 1);
+		foreach ($allBookArr as $key => $val) {
+			echo("<table>
+				<tr>
+					<td></td>
+					<td>".$allBookArr[$key]['titlebook']."</td>
+				</tr>
+				<tr>
+					<td><img src = 'files/repository/book/".$allBookArr[$key]['catBook']."/img/".$allBookArr[$key]['lincImgBook']."'></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td><a href = 'fileManager.php?action=book&cat=".$allBookArr[$key]['catBook']."&titleBook=".$allBookArr[$key]['titlebook']."'>Скачать</a></td>
+				</tr>
+			</table>");
+		}
 		break;
 		
 		case 'films':
@@ -62,6 +82,7 @@ if (JCore::getInput('action') == 'exit') {
 		/* Личный кабинет */
 		case 'lk':
 		if (JCore::getSessAccesUser() > 0) {
+			
 			$rsltUserSession = JCore::getSession();
 			echo "<table>
 			<tr>
